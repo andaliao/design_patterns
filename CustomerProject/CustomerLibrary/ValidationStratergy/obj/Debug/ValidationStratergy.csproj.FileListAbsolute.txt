@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ValidationStratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ValidationStratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\obj\Debug\ValidationStratergy.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\obj\Debug\ValidationStratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\obj\Debug\ValidationStratergy.pdb

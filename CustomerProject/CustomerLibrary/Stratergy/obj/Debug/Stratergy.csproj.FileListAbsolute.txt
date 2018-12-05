@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\obj\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\obj\Debug\Stratergy.pdb

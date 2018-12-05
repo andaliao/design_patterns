@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\obj\Debug\CustomerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\obj\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\Stratergy.pdb

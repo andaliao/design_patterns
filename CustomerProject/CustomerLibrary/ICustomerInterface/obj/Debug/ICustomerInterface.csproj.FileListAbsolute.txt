@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ICustomerInterface\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ICustomerInterface\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ICustomerInterface\obj\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ICustomerInterface\obj\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ICustomerInterface\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ICustomerInterface\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ICustomerInterface\obj\Debug\ICustomerInterface.csprojResolveAssemblyReference.cache
